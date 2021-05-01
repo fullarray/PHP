@@ -4,7 +4,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Additional Compiled Classes
+    | Additional Compiled Class
     |--------------------------------------------------------------------------
     |
     | Here you may specify additional classes to include in the compiled file
