@@ -4,9 +4,13 @@
          bootstrap="bootstrap/app.php"
          colors="true"
          convertErrorsToExceptions="true"
+         
          convertNoticesToExceptions="true"
+         
          convertWarningsToExceptions="true"
+         
          processIsolation="false"
+         
          stopOnFailure="false">
     <testsuites>
         <testsuite name="Application Test Suite">
