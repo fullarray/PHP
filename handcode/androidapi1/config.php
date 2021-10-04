@@ -1,7 +1,6 @@
 <?php
-	define('hostname', 'localhost');
-	define('user','root');
-
+define('hostname', 'localhost');
+define('user','root');
 define('password','');
 
 
