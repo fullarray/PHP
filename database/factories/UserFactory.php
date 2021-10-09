@@ -1,7 +1,7 @@
 <?php
 use Faker\Generator as Faker;
 /*
-|------------------------------------------------------------------------
+|-------------------------------------------------------------------
 | Model Factories
 |------------------------------------------------------------------------
 | This directory should contain each of the model factory definitions for
